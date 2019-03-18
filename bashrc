@@ -17,5 +17,3 @@ SPARK_HOME=/spark24
 
 PATH=$PATH:$JAVA_HOME/bin:$SPARK_HOME/bin:$SPARK_HOME/sbin
 export PATH
-
-source <(kubectl completion bash)
